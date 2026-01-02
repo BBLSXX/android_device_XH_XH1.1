@@ -1,0 +1,1 @@
+# android_device_XH_XH1.1
